@@ -1,0 +1,9 @@
+body{
+    background:lightgray;
+}
+
+img {
+    width: 100%;
+    height: 400px !important;
+    object-fit: cover;
+}
